@@ -1,0 +1,32 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+h1 {
+    color: rgb(113, 192, 166);
+    text-align: center;
+}
+
+.myphoto img{
+    width: 400px;      
+}
+.myphoto {
+    float: right;
+}
+.books1 {
+    width: 10px;
+}
+p{
+    border: 2px solid blueviolet;
+    padding: 100px;
+    margin: 30px;
+}
+
+.text {
+    text-align: center;
+}
+.books {
+    background-color: aqua;
+    color: blueviolet;
+}
